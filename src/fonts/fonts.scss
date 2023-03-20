@@ -1,0 +1,38 @@
+@font-face { 
+  font-weight:normal;
+  font-family:'font awesome';
+  font-style:normal;
+  src: url('./fa-brands-400.woff') format('woff'), 
+    url('./fa-brands-400.ttf') format('truetype'), 
+    url('./fa-brands-400.svg#FontAwesome5BrandsRegular') format('svg');
+}
+
+@font-face {
+  font-weight: normal;
+  font-family: "montserrat";
+  font-style: normal;
+  src:
+    url('./Montserrat-Regular.woff') format('woff'),
+    url('./Montserrat-Regular.ttf') format('truetype'),
+    url('./Montserrat-Regular.svg') format('svg');
+}
+
+@font-face {
+  font-weight: bold;
+  font-family: "montserrat";
+  font-style: normal;
+  src:
+    url('./Montserrat-Bold.woff') format('woff'),
+    url('./Montserrat-Bold.ttf') format('truetype'),
+    url('./Montserrat-Bold.svg') format('svg');
+}
+
+@font-face {
+  font-weight: normal;
+  font-family: "material icons";
+  font-style: normal;
+  src:
+    url('./MaterialIcons-Regular.woff') format('woff'),
+    url('./MaterialIcons-Regular.ttf') format('truetype'),
+    url('./MaterialIcons-Regular.svg') format('svg');
+}
